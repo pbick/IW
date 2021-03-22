@@ -20,7 +20,8 @@ from urllib.parse import urlparse
 metadata_url = 'http://lila.science/wp-content/uploads/2020/03/lila_sas_urls.txt'
 
 # JSON filename
-json_filename = "species_images.json"
+# json_filename = "species_images.json"
+json_filename = "empty_images.json"
 
 # Don't change this for now - we are only downloading from Snapshot Serengeti
 dataset = 'Snapshot Serengeti'
@@ -30,7 +31,7 @@ output_dir = 'Downloads'
 os.makedirs(output_dir,exist_ok=True)
 
 # In case the program crashes
-downloaded_species = ['leopard', 'rhinoceros', 'waterbuck', 'lionmale', 'lionfemale', 'buffalo']
+downloaded_species = []
 
 
 # Support functions
