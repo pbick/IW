@@ -4,25 +4,29 @@
 
 import os
 
-male_filenames = os.listdir("Downloads/lionmale")
+dataset = "test"
+
+print("Merging lions for", dataset)
+
+male_filenames = os.listdir(f"Datasets/{dataset}/lionmale")
 print("Num male images:", len(male_filenames))
-female_filenames = os.listdir("Downloads/lionfemale")
+female_filenames = os.listdir(f"Datasets/{dataset}/lionfemale")
 print("Num female images:", len(female_filenames))
 
 new_dir = "lion"
 
-os.makedirs(f"Downloads/{new_dir}",exist_ok=True)
+os.makedirs(f"Datasets/{dataset}/{new_dir}",exist_ok=True)
 
 for fn in female_filenames:
-    os.rename(f"Downloads/lionfemale/{fn}", f"Downloads/{new_dir}/{fn}")
+    os.rename(f"Datasets/{dataset}/lionfemale/{fn}", f"Datasets/{dataset}/{new_dir}/{fn}")
 
 count = 0
 for fn in male_filenames:
     if fn not in female_filenames:
-        os.rename(f"Downloads/lionmale/{fn}", f"Downloads/{new_dir}/{fn}")
+        os.rename(f"Datasets/{dataset}/lionmale/{fn}", f"Datasets/{dataset}/{new_dir}/{fn}")
     else:
         count += 1
 
-combined_filenames = os.listdir(f"Downloads/{new_dir}")
+combined_filenames = os.listdir(f"Datasets/{dataset}/{new_dir}")
 print("Num combined images:", len(combined_filenames))
 print("Num duplicates:", count)
