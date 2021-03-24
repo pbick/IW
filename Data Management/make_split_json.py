@@ -6,6 +6,7 @@
 
 import numpy as np 
 import json
+import os
 
 with open("species_images.json") as f:
     data_species = json.load(f)
@@ -36,6 +37,12 @@ assert len(empty_train_ims) + len(empty_test_ims) == len(data_empty["empty"])
 
 train_json["empty"] = empty_train_ims
 test_json["empty"] = empty_test_ims
+
+# Now, discard the ones that were cleaned out
+for name in train_json:
+    clean_list = os.listdir(f"Downloads/{name}")
+    train_json[name] = [image for image in train_json[name] if image["file_name"].split('/')[-1] in clean_list]
+    test_json[name] = [image for image in test_json[name] if image["file_name"].split('/')[-1] in clean_list]
 
 print("Printing image counts by species for train/val dataset")
 for name in train_json:
