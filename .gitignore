@@ -6,3 +6,4 @@ Data Management/*.json
 *.DS_Store
 Downloads*
 Datasets*
+trainval*
