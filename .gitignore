@@ -7,4 +7,4 @@ Data Management/*.json
 Downloads*
 Datasets*
 trainval*
-Detection Results*
+Detection Results/*.json
