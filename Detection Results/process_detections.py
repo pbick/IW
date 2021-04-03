@@ -9,7 +9,7 @@ import numpy as np
 import json
 import os
 
-discard_incorrects = True
+discard_emptys = True
 skip_rhinos = True
 detection_filename = "detection1_results.json"
 output_filename = detection_filename.split(".")[0] + "_clean.json"
@@ -43,9 +43,10 @@ incorrect_preds = {
     "animal": []
 }
 for image in images:
-    incorrect = False
+    empty_pred = False
     clean_image = {}
     fn = image["file"]
+    rel_fn = fn.split('/')[-2] + '/' + fn.split('/')[-1]
     detections = image["detections"]
 
     # Get ground truth category from filename
@@ -65,6 +66,7 @@ for image in images:
     if len(detections) == 0: 
         # No detections - MD prediction is empty
         num_empty_predictions += 1
+        empty_pred = True
          
         if true_cat == "empty":
             # empty prediction is correct
@@ -73,7 +75,6 @@ for image in images:
             # empty prediction is incorrect
             pred = {"fn": fn, "truth": f"animal ({fn.split('/')[-2]})", "pred": "empty"}
             incorrect_preds["empty"].append(pred)
-            incorrect = True
 
     # Must process detections (prediction could still be empty if all below threshold)
     else:
@@ -83,6 +84,7 @@ for image in images:
         if len(clean_detections) == 0:
             # Once again, no detections - MD prediction is empty
             num_empty_predictions += 1
+            empty_pred = True
 
             if true_cat == "empty":
                 # empty prediction is correct
@@ -91,7 +93,6 @@ for image in images:
                 # empty prediction is incorrect
                 pred = {"fn": fn, "truth": f"animal ({fn.split('/')[-2]})", "pred": "empty"}
                 incorrect_preds["empty"].append(pred)
-                incorrect = True
         else:
             # Prediction is animal
             num_animal_predictions += 1
@@ -103,10 +104,9 @@ for image in images:
                 # animal prediction is incorrect
                 pred = {"fn": fn, "truth": "empty", "pred": "animal"}
                 incorrect_preds["animal"].append(pred)
-                incorrect = True
     
-    if not (incorrect and discard_incorrects):
-        clean_image["file"] = fn
+    if not (empty_pred and discard_emptys):
+        clean_image["file"] = rel_fn
         clean_image["max_detection_conf"] = image["max_detection_conf"]
         clean_image["detections"] = clean_detections
         clean_images.append(clean_image)
@@ -151,7 +151,7 @@ print("Number of incorrect empty predictions:", len(incorrect_preds["empty"]))
 print("Number of incorrect animal predictions:", len(incorrect_preds["animal"]))
 print()
 
-print("Number of images with correct predictions:", len(clean_data["images"]))
+print("Number of images with animal predictions:", len(clean_data["images"]))
 print()
 
 print("Saving files now...")
