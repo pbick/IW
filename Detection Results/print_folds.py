@@ -28,6 +28,9 @@ with open(csv_filename) as f:
             folds[fold].append(loc)
             line_count += 1
 
+with open("folds.json", 'w') as outfile:
+    json.dump(folds, outfile, indent=1)
+
 species_list = ["empty", "leopard", "lion", "elephant", "buffalo", "waterbuck", "hyenaspotted"]
 fold_counts = {fold:{species:0 for species in species_list} for fold in folds}
 
