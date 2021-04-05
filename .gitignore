@@ -13,3 +13,4 @@ Detection Results/location_counts*
 Detection Results/*.csv
 CameraTraps
 Crops
+Training/__pycache__
