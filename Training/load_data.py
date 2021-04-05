@@ -42,7 +42,7 @@ def load_data(data_dir):
                                         data_transforms[x])
                 for x in ['train', 'val']}
     dataloaders = {x: torch.utils.data.DataLoader(image_datasets[x], batch_size=16, # what batch size? 10? 128?
-                                        shuffle=True, num_workers=4)
+                                        shuffle=True, num_workers=1)
                 for x in ['train', 'val']}
     dataset_sizes = {x: len(image_datasets[x]) for x in ['train', 'val']}
     class_names = image_datasets['train'].classes
