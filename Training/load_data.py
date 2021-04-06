@@ -22,7 +22,7 @@ import copy
 # ---------------------------------------------------------------------
 # Load data using torchvision and torch.utils.data package
 # ---------------------------------------------------------------------
-def load_data(data_dir):
+def load_data(data_dir, batch_sz=16):
     # Data augmentation and normalization for training (actually only normalization for now)
     # Just normalization for validation
     data_transforms = {
@@ -41,7 +41,7 @@ def load_data(data_dir):
     image_datasets = {x: ImageFolderWithPaths(os.path.join(data_dir, x),
                                         data_transforms[x])
                 for x in ['train', 'val']}
-    dataloaders = {x: torch.utils.data.DataLoader(image_datasets[x], batch_size=16, # what batch size? 10? 128?
+    dataloaders = {x: torch.utils.data.DataLoader(image_datasets[x], batch_size=batch_sz,
                                         shuffle=True, num_workers=1)
                 for x in ['train', 'val']}
     dataset_sizes = {x: len(image_datasets[x]) for x in ['train', 'val']}
