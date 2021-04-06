@@ -37,7 +37,7 @@ def main(data_dir, exp_name):
              f"lr_decay gamma = {lr_gamma}\n",
     ]
 
-    with open(f"../Training Results/{exp_name}/hyper_params.txt", 'w') as f:
+    with open(f"/home/pbickenbach/IW/Training Results/{exp_name}/hyper_params.txt", 'w') as f:
         f.writelines(lines)
 
     loaded_data = load_data(data_dir, batch_sz=batch_size)
