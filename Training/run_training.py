@@ -25,8 +25,8 @@ from load_data import load_data
 def main(data_dir, exp_name):
     n_epochs = 100
     batch_size = 16
-    l_rate = 0.00001
-    wt_decay = 0.01
+    l_rate = 0.0001
+    wt_decay = 0.001
     lr_step = 10
     lr_gamma = 0.1
     lines = [f"num_epochs = {n_epochs}\n",
