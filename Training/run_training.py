@@ -23,7 +23,7 @@ from load_data import load_data
 # -------------------------------------------------------------------------------------------------------------------------
 
 def main(data_dir, exp_name):
-    n_epochs = 100
+    n_epochs = 50
     batch_size = 16
     l_rate = 0.001
     wt_decay = 0.01
