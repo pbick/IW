@@ -23,12 +23,12 @@ from load_data import load_data
 # -------------------------------------------------------------------------------------------------------------------------
 
 def main(data_dir, exp_name):
-    n_epochs = 100
+    n_epochs = 50
     batch_size = 16
-    l_rate = 0.0001
+    l_rate = 0.001
     wt_decay = 0.001
-    lr_step = 10
-    lr_gamma = 0.1
+    lr_step = 5
+    lr_gamma = 0.5
     lines = [f"num_epochs = {n_epochs}\n",
              f"batch_size = {batch_size}\n",
              f"lr = {l_rate}\n",
@@ -52,10 +52,10 @@ def main(data_dir, exp_name):
 
     # Parameters of newly constructed modules have requires_grad=True by default
     num_ftrs = model.fc.in_features
-    model.fc = nn.Linear(num_ftrs,  num_classes)
-    # model.fc = nn.Sequential(
-    #         nn.Linear(num_ftrs, 256), nn.ReLU(), nn.Dropout(0.2),
-    #         nn.Linear(256, num_classes), nn.LogSoftmax(dim=1))
+    # model.fc = nn.Linear(num_ftrs,  num_classes)
+    model.fc = nn.Sequential(
+            nn.Linear(num_ftrs, 256), nn.ReLU(), nn.Dropout(0.2),
+            nn.Linear(256, num_classes), nn.LogSoftmax(dim=1))
     
     model = model.to(device)
     criterion = nn.CrossEntropyLoss()
