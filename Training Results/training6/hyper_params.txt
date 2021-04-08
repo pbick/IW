@@ -1,0 +1,6 @@
+num_epochs = 50
+batch_size = 16
+lr = 0.001
+weight_decay = 0.01
+lr_decay step_size = 10
+lr_decay gamma = 0.5
