@@ -43,6 +43,6 @@ def plot_curves(filename, num_epochs):
     plt.show()
 
 if __name__ == "__main__":
-    filename = sys.argv[1]
+    exp_name = sys.argv[1]
     num_epochs = int(sys.argv[2])
-    plot_curves(filename, num_epochs)
+    plot_curves(f"{exp_name}/{exp_name}.out", num_epochs)
