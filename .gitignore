@@ -14,3 +14,4 @@ Detection Results/*.csv
 CameraTraps
 Crops
 Training/__pycache__
+*.json
