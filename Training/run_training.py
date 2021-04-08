@@ -43,6 +43,8 @@ def main(data_dir, exp_name):
     loaded_data = load_data(data_dir, batch_sz=batch_size)
     dataloaders, dataset_sizes, class_names, device = loaded_data
 
+    num_classes = len(class_names)
+
     # Use resnet18 model pretrained on ImageNet
     model = torchvision.models.resnet18(pretrained=True)
     for param in model.parameters():
@@ -50,8 +52,11 @@ def main(data_dir, exp_name):
 
     # Parameters of newly constructed modules have requires_grad=True by default
     num_ftrs = model.fc.in_features
-    model.fc = nn.Linear(num_ftrs,  len(class_names))
-
+    # model.fc = nn.Linear(num_ftrs,  num_classes)
+    model.fc = nn.Sequential(
+            nn.Linear(num_ftrs, 256), nn.ReLU(), nn.Dropout(0.2),
+            nn.Linear(256, num_classes), nn.LogSoftmax(dim=1))
+    
     model = model.to(device)
     criterion = nn.CrossEntropyLoss()
 
@@ -62,8 +67,9 @@ def main(data_dir, exp_name):
     # Decay learning rate by a factor of 0.1 every 10 epochs
     exp_lr_scheduler = lr_scheduler.StepLR(optimizer, step_size=lr_step, gamma=lr_gamma)
 
-    # Train and evaluate
+    # Train and save best model
     model = train(model, criterion, optimizer, exp_lr_scheduler, loaded_data, num_epochs=n_epochs)
+    torch.save(model.state_dict(), f"/home/pbickenbach/IW/Training Results/{exp_name}/best_model.pt")
 
 if __name__ == "__main__":
     data_dir = sys.argv[1]

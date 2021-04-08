@@ -87,5 +87,4 @@ def train(model, criterion, optimizer, scheduler, loaded_data, num_epochs=100):
 
     # load best model weights
     model.load_state_dict(best_model_wts)
-    torch.save(model.state_dict(), "best_model.pt")
     return model
