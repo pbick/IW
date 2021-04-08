@@ -27,7 +27,7 @@ def main(data_dir, exp_name):
     batch_size = 16
     l_rate = 0.001
     wt_decay = 0.01
-    lr_step = 10
+    lr_step = 5
     lr_gamma = 0.5
     lines = [f"num_epochs = {n_epochs}\n",
              f"batch_size = {batch_size}\n",
