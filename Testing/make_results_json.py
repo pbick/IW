@@ -28,3 +28,4 @@ if __name__ == "__main__":
     orig_dir = sys.argv[1]
     exp_name = sys.argv[2]
     make_results_json(orig_dir, exp_name)
+    print("Successfully made results_json!)
