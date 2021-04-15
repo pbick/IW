@@ -11,7 +11,7 @@ exp_name=$2
 mkdir ~/IW/Testing/Results/$exp_name
 
 # Make ground truth and results file
-python ~/IW/Testing/make_results_json.py $orig_dir $exp_name
+python ~/IW/Testing/make_results_json.py ~/$orig_dir $exp_name
 
 # Run detector
 export PYTHONPATH="$PYTHONPATH:$PWD/ai4eutils:$PWD/CameraTraps"
