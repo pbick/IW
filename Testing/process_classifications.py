@@ -28,7 +28,7 @@ def load_data(data_dir, exp_name):
             transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
 
-    image_dataset = ImageFolderWithPaths(os.path.join(data_dir, exp_name), data_transforms)
+    image_dataset = ImageFolderWithPaths(data_dir, data_transforms)
     dataset_size = len(image_dataset)
     dataloader = torch.utils.data.DataLoader(image_dataset, batch_size=dataset_size, shuffle=True, num_workers=1)
     class_names = image_dataset.classes
