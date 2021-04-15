@@ -21,6 +21,7 @@ def make_results_json(orig_dir, exp_name):
             }
             data[f"{species}/{im}"] = im_dict
     
+    os.makedirs(f"~/IW/Testing/Results/{exp_name}", exist_ok=True)
     with open(f"~/IW/Testing/Results/{exp_name}/results.json", 'w') as outfile:
         json.dump(data, outfile, indent=1)
 
