@@ -14,7 +14,7 @@ mkdir Testing/Results/$exp_name
 python Testing/make_results_json.py $orig_dir $exp_name
 
 # Run detector
-export PYTHONPATH="$PYTHONPATH:~/ai4eutils:~/CameraTraps"
+export PYTHONPATH="$PYTHONPATH:$PWD/ai4eutils:$PWD/CameraTraps"
 python ~/CameraTraps/detection/run_tf_detector_batch.py ~/md_v4.1.0.pb ~/IW/$orig_dir ~/IW/Testing/Results/$exp_name/detection_results.json --recursive
 
 # Run script to process detections
