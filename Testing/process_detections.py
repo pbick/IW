@@ -102,6 +102,7 @@ def process_detections(results_folder):
                 # Prediction is animal
                 num_animal_predictions += 1
                 results[rel_fn]["detection_pred"] = "animal"
+                results[rel_fn]["classification_pred"] = []
 
                 if true_cat == "animal":
                     # animal prediction is correct
