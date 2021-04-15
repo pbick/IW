@@ -22,7 +22,7 @@ python Testing/process_detections.py Testing/Results/$exp_name > Testing/Results
 
 # Make crops
 mkdir Crops/$exp_name
-mkdirs Crops/$exp_name/empty Crops/$exp_name/leopard Crops/$exp_name/lion Crops/$exp_name/buffalo Crops/$exp_name/elephant Crops/$exp_name/waterbuck Crops/$exp_name/hyenaspotted
+mkdir Crops/$exp_name/empty Crops/$exp_name/leopard Crops/$exp_name/lion Crops/$exp_name/buffalo Crops/$exp_name/elephant Crops/$exp_name/waterbuck Crops/$exp_name/hyenaspotted
 python ~/CameraTraps/classification/crop_detections.py Testing/Results/$exp_name/detection_results_clean.json Crops/$exp_name -i $orig_dir -v 4.1 --square-crops -t 0.8 --logdir Crops/$exp_name
 
 # Run classifier on crops
