@@ -20,7 +20,7 @@ import json
 
 species_list = ['empty', 'leopard', 'waterbuck', 'hyenaspotted', 'buffalo', 'lion', 'elephant']
 
-def load_data(data_dir, exp_name):
+def load_data(data_dir):
     # Only testing
     data_transforms = transforms.Compose([
             transforms.Resize(224),
@@ -28,7 +28,7 @@ def load_data(data_dir, exp_name):
             transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
         ])
 
-    image_dataset = ImageFolderWithPaths(os.path.join(data_dir, exp_name), data_transforms)
+    image_dataset = ImageFolderWithPaths(data_dir, data_transforms)
     dataset_size = len(image_dataset)
     dataloader = torch.utils.data.DataLoader(image_dataset, batch_size=dataset_size, shuffle=True, num_workers=1)
     class_names = image_dataset.classes
@@ -37,7 +37,7 @@ def load_data(data_dir, exp_name):
     return (dataloader, dataset_size, class_names, device)
 
 def process_classifications(model, loaded_data, exp_name):
-    results_filename = f"Testing/Results/{exp_name}/results.json"
+    results_filename = f"~/IW/Testing/Results/{exp_name}/results.json"
     with open(results_filename) as f:
         results = json.load(f)
 
@@ -105,7 +105,7 @@ def process_classifications(model, loaded_data, exp_name):
 if __name__ == "__main__":
     data_dir = sys.argv[1]
     exp_name = sys.argv[2]
-    loaded_data = load_data(data_dir, exp_name)
+    loaded_data = load_data(data_dir)
 
     model = torchvision.models.resnet18(pretrained=True)
     for param in model.parameters():
