@@ -15,4 +15,4 @@ CameraTraps
 Crops
 Training/__pycache__
 *.json
-!Testing/Results/*.json
+!Testing/Results/*/*.json
