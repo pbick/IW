@@ -30,14 +30,14 @@ def load_data(data_dir):
 
     image_dataset = ImageFolderWithPaths(data_dir, data_transforms)
     dataset_size = len(image_dataset)
-    dataloader = torch.utils.data.DataLoader(image_dataset, batch_size=dataset_size, shuffle=True, num_workers=1)
+    dataloader = torch.utils.data.DataLoader(image_dataset, batch_size=16, shuffle=True, num_workers=1)
     class_names = image_dataset.classes
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     return (dataloader, dataset_size, class_names, device)
 
 def process_classifications(model, loaded_data, exp_name):
-    results_filename = f"~/IW/Testing/Results/{exp_name}/results.json"
+    results_filename = f"IW/Testing/Results/{exp_name}/results.json"
     with open(results_filename) as f:
         results = json.load(f)
 
@@ -63,7 +63,7 @@ def process_classifications(model, loaded_data, exp_name):
                 pred = class_names[preds[j]]
                 truth = class_names[labels[j]]
                 fn = filenames[j]
-                rel_fn = os.path.join(truth, fn.split("___")[0])
+                rel_fn = os.path.join(truth, fn.split("___")[0].split('/')[-1])
 
                 results[rel_fn]["classification_pred"].append(pred)
                 count_positives[truth] += 1.0
@@ -116,6 +116,6 @@ if __name__ == "__main__":
             nn.Linear(num_ftrs, 256), nn.ReLU(), nn.Dropout(0.2),
             nn.Linear(256, num_classes), nn.LogSoftmax(dim=1))
     model = model.to(loaded_data[3])
-    model.load_state_dict(torch.load("best_model.pt"))
+    model.load_state_dict(torch.load("IW/Testing/best_model.pt"))
 
     process_classifications(model, loaded_data, exp_name)

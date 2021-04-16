@@ -16,7 +16,7 @@ def process_detections(results_folder):
     detection_filename = f"{results_folder}/detection_results.json"
     results_filename = f"{results_folder}/results.json"
     output_filename = detection_filename.split(".")[0] + "_clean.json"
-    incorrects_filename = detection_filename.split("_")[0] + "_incorrects.json"
+    incorrects_filename = detection_filename.split("_")[0] + "_" +  detection_filename.split("_")[1]  + "_incorrects.json"
     print("Output filename:", output_filename)
     print("Incorrects filename:", incorrects_filename)
     print()
