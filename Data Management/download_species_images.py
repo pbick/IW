@@ -21,13 +21,13 @@ metadata_url = 'http://lila.science/wp-content/uploads/2020/03/lila_sas_urls.txt
 
 # JSON filename
 # json_filename = "species_images.json"
-json_filename = "empty_images.json"
+json_filename = "skr_files/species_images.json"
 
 # Don't change this for now - we are only downloading from Snapshot Serengeti
-dataset = 'Snapshot Serengeti'
+dataset = 'Snapshot Kruger'
 
 # We'll write images here
-output_dir = 'Downloads'
+output_dir = 'Downloads/skr'
 os.makedirs(output_dir,exist_ok=True)
 
 # In case the program crashes
