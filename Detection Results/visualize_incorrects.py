@@ -8,8 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
-incorrects_filename = "detection1_incorrects.json"
-dataset_dir = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Datasets/trainval"
+incorrects_filename = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Testing/Results/test_sse/detection_incorrects.json"
+dataset_dir = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Datasets/test_sse"
 
 with open(incorrects_filename) as f:
     data = json.load(f)
