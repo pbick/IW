@@ -8,8 +8,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
-incorrects_filename = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Testing/Results/test_sse/detection_incorrects.json"
-dataset_dir = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Datasets/test_sse"
+incorrects_filename = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Testing/Results/test_skr/detection_incorrects.json"
+dataset_dir = "/Users/pbick/Documents/Princeton/Spring 2021/IW/Data Management/Downloads/skr"
 
 with open(incorrects_filename) as f:
     data = json.load(f)
@@ -20,7 +20,7 @@ for im in data["empty"]:
     truth = im["truth"]
     pred = im["pred"]
     full_fn = os.path.join(dataset_dir, rel_fn)
-
+    
     img = mpimg.imread(full_fn)
     plt.imshow(img)
     plt.title(f"Fn: {rel_fn}\nPred: {pred}\nTruth: {truth}")

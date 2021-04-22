@@ -30,6 +30,7 @@ def pipeline_results(exp_name):
         im_dict = data[im]
         truth = im_dict['ground_truth']
         count_positives[truth] += 1.0
+        # print(im)
 
         if truth == "empty":
             if im_dict['detection_pred'] == "empty":

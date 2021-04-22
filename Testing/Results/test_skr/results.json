@@ -1552,11 +1552,6 @@
   "detection_pred": "empty",
   "classification_pred": null
  },
- "empty/.DS_Store": {
-  "ground_truth": "empty",
-  "detection_pred": null,
-  "classification_pred": null
- },
  "empty/KRU_S1_35_R1_IMAG0034.JPG": {
   "ground_truth": "empty",
   "detection_pred": "empty",
