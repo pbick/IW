@@ -1,0 +1,626 @@
+{
+ "empty": [
+  {
+   "fn": "buffalo/ENO_S1_D03_R1_IMAG2362.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_D04_R2_IMAG0638.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_C04_R1_IMAG0684.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_D03_R1_IMAG2360.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_D04_R2_IMAG0639.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_D03_R1_IMAG2361.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_C04_R1_IMAG0681.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_C04_R1_IMAG0687.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/ENO_S1_D04_R2_IMAG0640.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "lion/ENO_S1_F06_R1_IMAG0130.JPG",
+   "truth": "animal (lion)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_C04_R1_IMAG0514.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_B05_R2_IMAG1015.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_C04_R1_IMAG0145.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_B05_R1_IMAG0424.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_B05_R1_IMAG0426.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_C05_R2_IMAG0540.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_D06_R1_IMAG0049.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_B05_R2_IMAG0450.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_B05_R1_IMAG0036.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_C05_R1_IMAG2199.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_D01_R1_IMAG1630.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_D01_R1_IMAG1629.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/ENO_S1_B05_R1_IMAG0425.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D02_R1_IMAG0292.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D02_R1_IMAG0291.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D05_R1_IMAG0027.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D02_R1_IMAG0293.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D05_R1_IMAG0033.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D02_R1_IMAG0155.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D02_R1_IMAG0294.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_C05_R1_IMAG1438.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D05_R1_IMAG0038.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D05_R1_IMAG0824.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D05_R1_IMAG0826.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/ENO_S1_D05_R1_IMAG0825.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/ENO_S1_C05_R2_IMAG0507.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/ENO_S1_D02_R1_IMAG0133.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  }
+ ],
+ "animal": [
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3722.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3069.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2028.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3399.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4094.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2871.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1656.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2698.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2102.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2734.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2030.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2378.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4966.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3339.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3491.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_C05_R1_IMAG1207.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2292.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_C05_R1_IMAG2427.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2782.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1715.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0415.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4158.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4305.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1093.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG5252.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4834.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0514.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2705.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1466.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3567.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3468.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1393.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1401.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4136.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2216.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1842.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1414.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4617.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4788.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0553.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D04_R2_IMAG1502.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3413.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG5118.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4218.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2188.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2431.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3273.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3205.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3307.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1494.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0674.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0707.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG5067.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4860.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2819.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1473.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1271.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2322.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3702.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3287.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3080.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2913.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0536.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0425.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3750.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D03_R1_IMAG3435.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2234.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4861.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1117.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2566.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1647.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2694.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_C05_R1_IMAG1185.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1348.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4112.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4121.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2758.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4509.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3291.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3390.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG1316.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG0616.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG2674.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG5218.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG3347.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4356.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/ENO_S1_D06_R1_IMAG4239.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  }
+ ]
+}

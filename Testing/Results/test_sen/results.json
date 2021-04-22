@@ -1,0 +1,7827 @@
+{
+ "empty/ENO_S1_C05_R1_IMAG0993.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3722.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1331.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3069.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0930.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1156.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0759.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0278.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2028.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG3399.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG0723.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1579.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4094.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D04_R2_IMAG0202.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2857.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1606.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0376.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0117.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1799.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2998.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0511.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2003.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0832.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2992.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4003.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0567.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2871.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG3869.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0403.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2238.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1621.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C03_R1_IMAG0002.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3550.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4756.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0459.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0166.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2094.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0565.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3665.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1870.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1623.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2091.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B05_R2_IMAG0645.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4265.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0189.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3018.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1636.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1827.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3125.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0436.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1733.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0279.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1127.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0462.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0776.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0093.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4262.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1656.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R2_IMAG1670.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0878.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2696.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2698.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG2061.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0788.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2102.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG2033.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3166.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2734.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0357.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2030.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG2378.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D01_R1_IMAG0792.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0235.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2641.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0161.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2005.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0797.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1912.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0786.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1064.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1648.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4966.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG4210.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4656.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2428.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0370.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2665.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3339.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG3491.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D01_R1_IMAG1007.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5019.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3107.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0722.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4963.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0754.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3299.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3915.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1558.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0498.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2842.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1256.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0498.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0460.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2266.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2547.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1207.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG1812.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4569.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2775.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0719.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3267.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0202.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2174.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0257.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0676.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2355.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0831.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0033.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2429.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2557.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3407.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0549.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1673.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2292.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R1_IMAG1002.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0457.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0526.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3045.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0245.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1472.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1433.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0678.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2427.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1553.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0300.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2782.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG0852.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3205.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0453.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1715.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG0415.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG2626.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4158.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG4046.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1713.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0282.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0164.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0156.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0781.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4305.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_E05_R1_IMAG0114.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1093.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG5231.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0149.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0291.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1637.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1652.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1401.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5252.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_D01_R1_IMAG0467.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0078.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0080.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0172.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0253.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3518.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0320.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2194.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2361.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0575.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1409.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4834.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG2593.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0815.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2988.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1674.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0514.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1444.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2217.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3798.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2420.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0521.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2705.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1466.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG1704.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3567.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1112.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0079.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1892.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1479.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0398.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0542.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0493.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0175.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4760.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0358.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0248.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3468.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B05_R2_IMAG0357.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2548.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1443.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0739.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2470.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2853.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1939.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1265.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2675.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0892.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1393.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG3245.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3049.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1994.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0500.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1009.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1304.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1428.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0055.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2411.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1253.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1084.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1401.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D01_R1_IMAG0137.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0073.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4136.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG2216.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG1430.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1858.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C04_R1_IMAG0334.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0613.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0628.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0771.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2907.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0805.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2312.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1519.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1842.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1414.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_C05_R1_IMAG0430.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1141.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3005.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2135.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4249.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1815.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0692.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1605.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4617.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG4788.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R1_IMAG1060.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2473.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2129.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0664.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0116.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3531.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0553.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R1_IMAG2442.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1413.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG1502.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG2746.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1254.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0952.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0127.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0984.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3309.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2426.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B06_R1_IMAG0114.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0198.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0532.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3836.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0923.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3413.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG4959.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2199.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0563.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5068.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG1401.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0449.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3215.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3197.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0051.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5118.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D04_R2_IMAG0558.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0147.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1260.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4218.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B06_R2_IMAG0640.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2095.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1712.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1463.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1192.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0106.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2188.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0287.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4075.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2431.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG2962.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0364.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3466.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1830.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3273.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG3256.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C04_R2_IMAG0257.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5242.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3205.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG5180.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3095.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0590.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0695.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0745.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2847.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2697.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1007.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2208.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1507.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0321.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2266.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0613.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0130.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1820.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3146.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4314.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1478.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0349.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1993.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2597.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0410.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1699.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0099.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0936.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3359.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3307.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1494.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D01_R1_IMAG0843.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0261.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0367.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0169.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3002.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1617.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1918.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1123.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0908.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0803.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1824.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1135.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1296.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0674.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1602.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5236.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1347.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0855.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1230.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4562.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0739.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4519.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3057.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2888.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0841.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0707.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1064.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2835.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4045.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0425.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5067.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG1468.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4860.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG2459.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3163.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3997.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0297.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2819.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1473.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG2346.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1798.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0558.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1898.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0807.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1271.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG2322.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG2968.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4508.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3702.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_C05_R1_IMAG1606.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0341.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3287.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0267.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1417.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4134.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0428.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1954.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3719.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2141.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0096.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1290.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B05_R2_IMAG0668.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1532.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3080.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1834.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0649.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1646.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0650.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2913.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C04_R1_IMAG0735.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1216.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0771.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3975.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2098.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0162.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3080.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5344.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0530.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0521.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1268.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3727.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1151.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3241.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0586.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1857.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3070.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1327.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2923.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1271.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3180.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1425.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0536.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty",
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG1933.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2314.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3173.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0185.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1435.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0488.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1540.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0813.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1813.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3852.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0763.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2673.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1711.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0070.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2178.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0742.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1323.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0425.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D01_R1_IMAG1406.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG2810.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4699.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1717.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1162.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1804.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1454.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0506.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B05_R1_IMAG0501.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3860.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4277.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3199.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3750.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R2_IMAG0214.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG3435.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG0949.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5297.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0813.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4271.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0289.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5010.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B05_R2_IMAG0416.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1108.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R1_IMAG0003.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2234.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG4861.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1395.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1117.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG2566.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0084.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1637.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3690.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1647.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG1391.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1063.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1338.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0799.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0457.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4109.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0671.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D04_R2_IMAG0907.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4171.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1243.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1807.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R2_IMAG0178.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1946.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0375.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2201.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B05_R2_IMAG0020.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1646.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2694.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1582.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0969.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1467.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1805.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2995.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0860.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4265.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1177.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4992.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1185.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0402.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0279.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0377.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1969.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1059.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5041.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D02_R1_IMAG0003.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0286.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3547.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1903.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1008.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1190.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1702.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0468.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0865.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1697.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG4156.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0893.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2178.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2923.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1126.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4988.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0411.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0640.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG0075.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2983.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1348.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D04_R2_IMAG1406.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1160.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4112.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0826.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0619.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0740.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1137.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0324.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3339.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG2499.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3204.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2264.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D01_R1_IMAG1276.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3476.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1025.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0114.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4121.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D03_R1_IMAG1861.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1685.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2758.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG3431.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4509.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG3291.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG2587.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0088.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1488.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1763.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG0223.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG3395.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG1039.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3528.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1503.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3521.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0809.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4872.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1912.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4320.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG2177.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3390.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG1316.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "empty/ENO_S1_C05_R2_IMAG0735.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1950.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5176.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0616.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R2_IMAG1168.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0762.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1176.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG2674.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D05_R1_IMAG0582.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D05_R1_IMAG1395.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG1339.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1405.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG5218.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "empty/ENO_S1_B03_R1_IMAG0912.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0887.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4173.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG1358.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0654.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0441.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG3347.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_C05_R1_IMAG0063.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG1755.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_C05_R1_IMAG0409.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D03_R1_IMAG0329.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_B03_R1_IMAG0344.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4867.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4356.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "empty/ENO_S1_D06_R1_IMAG2804.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG0741.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "empty/ENO_S1_D06_R1_IMAG4239.JPG": {
+  "ground_truth": "empty",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0227.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_E05_R1_IMAG0039.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0585.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_D01_R1_IMAG1458.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0031.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0465.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0298.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R2_IMAG0809.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_E05_R1_IMAG0037.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0489.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0488.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0487.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_E05_R1_IMAG0035.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B05_R1_IMAG0297.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_E05_R1_IMAG0038.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_B02_R1_IMAG1120.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_E05_R1_IMAG0034.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_C05_R2_IMAG0075.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "leopard/ENO_S1_E05_R1_IMAG0036.JPG": {
+  "ground_truth": "leopard",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0886.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C03_R1_IMAG0062.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0653.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0083.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C03_R1_IMAG0233.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0412.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0882.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C05_R2_IMAG0507.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0072.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0099.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C05_R2_IMAG0505.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0085.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0053.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1139.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0121.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0122.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0138.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R1_IMAG0473.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D06_R1_IMAG0173.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0775.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0655.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0076.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0066.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0091.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0137.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0061.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1085.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D06_R1_IMAG0172.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0139.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0055.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0048.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0142.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0363.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0057.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0062.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0411.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_D05_R1_IMAG1525.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0722.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0657.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0069.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0131.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0098.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0065.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0090.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1059.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0050.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0537.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0120.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R1_IMAG0475.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0046.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C03_R1_IMAG0232.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D05_R1_IMAG1523.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0502.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R1_IMAG0474.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0059.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1058.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0410.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C05_R2_IMAG0506.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0051.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R1_IMAG0505.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0539.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0075.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0074.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0045.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0070.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0044.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0064.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B05_R2_IMAG0266.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0063.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0235.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D05_R1_IMAG1524.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0049.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D05_R1_IMAG1522.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0088.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0538.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0092.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0132.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C05_R1_IMAG1794.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D06_R1_IMAG0171.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0058.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C03_R1_IMAG0231.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D05_R1_IMAG1520.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D06_R1_IMAG0174.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0536.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_D06_R1_IMAG0175.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0140.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0056.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D06_R1_IMAG0170.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0071.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B03_R1_IMAG1199.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R1_IMAG0694.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0086.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0047.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0362.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0884.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0300.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0721.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0236.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0501.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1138.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0234.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1045.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0084.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0652.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0087.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0774.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1136.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0656.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0133.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0068.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0141.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0810.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D05_R1_IMAG1521.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0413.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B03_R1_IMAG1198.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0067.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0089.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0237.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_C04_R2_IMAG0141.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0658.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG0651.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0073.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_D02_R1_IMAG0097.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "waterbuck/ENO_S1_B02_R1_IMAG1137.JPG": {
+  "ground_truth": "waterbuck",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1296.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0647.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0362.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0086.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0464.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0272.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0147.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0390.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0069.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1174.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0506.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2383.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0252.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0225.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0514.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0302.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0146.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2198.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1672.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0212.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0333.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2329.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0424.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0518.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0266.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1043.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0950.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0042.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0034.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0582.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0299.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0519.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0397.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0288.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0037.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0515.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0726.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0087.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0493.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0421.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2196.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0220.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0522.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1100.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0334.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0223.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0444.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0406.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0167.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0526.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0910.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0082.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1755.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0723.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0230.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0342.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0221.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0155.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0484.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0911.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "leopard",
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0587.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0675.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0140.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0302.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0541.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0098.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0183.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0527.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0388.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1881.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0391.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0914.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0084.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0048.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0422.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0449.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1156.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0638.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D04_R1_IMAG0109.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0478.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0887.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0209.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0563.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0937.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0377.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0559.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1057.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty",
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0132.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0588.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0181.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0434.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0908.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "leopard",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0712.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0126.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0115.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1042.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0837.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0485.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0149.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0909.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D04_R1_IMAG0068.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0640.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1614.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0851.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2328.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0842.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0115.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0223.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0388.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0047.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0065.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0811.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0424.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0522.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0171.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0956.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0033.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0516.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1521.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1015.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0731.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2214.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0062.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0585.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1457.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0214.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0850.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0046.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0420.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1155.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0526.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0226.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1165.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2018.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0476.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1047.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0955.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck",
+   "leopard",
+   "waterbuck",
+   "hyenaspotted",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1882.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0401.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0125.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0963.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0998.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0536.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0649.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0341.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1517.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0403.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D03_R1_IMAG0223.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2215.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0145.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0303.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0156.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0396.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0274.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1045.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2153.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0175.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0061.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG1119.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0342.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0176.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0157.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0468.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1017.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1056.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "elephant"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0223.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0227.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0962.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0513.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0643.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0177.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1044.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion",
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0424.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1101.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2327.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0520.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0065.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1107.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0081.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0448.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1582.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0303.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1455.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0961.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0451.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0222.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG1118.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1196.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1754.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0426.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1066.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0395.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0957.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0888.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0090.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0517.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted",
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0540.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0500.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0528.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0304.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0276.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0191.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0523.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0139.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0264.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1102.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1297.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0646.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0420.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0213.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0674.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0262.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1740.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0463.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0091.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1756.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0541.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0363.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0849.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1016.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1055.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0325.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0724.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0034.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0674.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0698.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0049.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0211.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0385.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0725.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0144.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0450.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0232.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0275.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0691.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0155.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0721.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0673.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0115.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0392.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0046.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0422.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0509.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "leopard",
+   "elephant"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0063.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0034.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0419.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0481.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0116.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0651.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0155.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0695.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0727.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0519.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0361.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0036.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0225.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "leopard",
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0182.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0537.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0661.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0044.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0210.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0912.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2310.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D04_R2_IMAG1121.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1399.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0369.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0051.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1456.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0511.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0508.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0013.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1176.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0324.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1628.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0215.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2200.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "elephant"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0512.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "elephant"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2824.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0915.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0989.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0131.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2812.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0022.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0136.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0584.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0525.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0542.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1068.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0050.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1548.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0343.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0838.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0363.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0225.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0123.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0423.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0482.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0233.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0423.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0402.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0230.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0049.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0726.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0521.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1279.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0639.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0048.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2287.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0229.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0039.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0642.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0265.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0224.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0524.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "hyenaspotted",
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0648.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1194.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0355.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0593.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0156.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2199.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0136.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0134.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0997.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R1_IMAG0461.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0431.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0770.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0483.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2216.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG0699.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0143.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0535.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1630.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_D03_R1_IMAG1415.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0224.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0041.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0125.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0319.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0581.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0988.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard",
+   "waterbuck",
+   "buffalo"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0580.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0305.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0032.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0913.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0521.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R2_IMAG1046.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0016.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0304.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B06_R2_IMAG0948.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0360.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0510.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted",
+   "hyenaspotted",
+   "lion"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0224.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG1078.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0261.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG1516.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D01_R1_IMAG1629.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0086.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R1_IMAG0302.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0427.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0225.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B02_R1_IMAG0499.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B03_R1_IMAG0841.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0066.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0425.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG2076.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0224.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R1_IMAG1880.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C05_R2_IMAG0910.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "leopard"
+  ]
+ },
+ "hyenaspotted/ENO_S1_B05_R1_IMAG0320.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D02_R1_IMAG0135.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_C04_R2_IMAG0352.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "hyenaspotted/ENO_S1_D06_R1_IMAG0085.JPG": {
+  "ground_truth": "hyenaspotted",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0689.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0686.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0092.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1509.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D04_R2_IMAG1332.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0314.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0809.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "elephant"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0044.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_C05_R2_IMAG0983.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1527.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "elephant",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0688.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D05_R1_IMAG2807.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0808.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D02_R1_IMAG0290.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0682.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0094.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R1_IMAG0462.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0275.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion",
+   "buffalo",
+   "empty",
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0343.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "hyenaspotted"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1512.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "waterbuck",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0364.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0331.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D05_R1_IMAG1919.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG2362.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_B05_R1_IMAG0508.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "leopard"
+  ]
+ },
+ "buffalo/ENO_S1_D02_R1_IMAG0289.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D04_R2_IMAG0638.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0684.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0683.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D02_R1_IMAG0288.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0643.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R1_IMAG0110.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1508.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1511.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG2360.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0438.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0276.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "waterbuck",
+   "leopard"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0332.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1522.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D04_R2_IMAG0639.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1513.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1528.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1520.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0685.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG2361.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_B06_R1_IMAG0505.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D04_R2_IMAG1330.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1510.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "buffalo",
+   "buffalo",
+   "buffalo",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D04_R2_IMAG1331.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0333.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0366.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1526.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "buffalo",
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0681.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_D03_R1_IMAG1521.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_C04_R1_IMAG0687.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_D04_R2_IMAG0640.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0436.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0277.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "buffalo",
+   "leopard",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0718.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0908.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0365.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0810.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "buffalo"
+  ]
+ },
+ "buffalo/ENO_S1_D05_R1_IMAG2809.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "buffalo/ENO_S1_B06_R2_IMAG0437.JPG": {
+  "ground_truth": "buffalo",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_F06_R1_IMAG0128.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_D04_R2_IMAG0801.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_B05_R2_IMAG0359.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_E05_R1_IMAG0068.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_D04_R2_IMAG0847.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_F06_R1_IMAG0130.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "lion/ENO_S1_F06_R1_IMAG0129.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "empty"
+  ]
+ },
+ "lion/ENO_S1_E05_R1_IMAG0069.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_B02_R1_IMAG0660.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "lion/ENO_S1_E05_R1_IMAG0067.JPG": {
+  "ground_truth": "lion",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "lion"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0198.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0172.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0292.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0207.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_E05_R1_IMAG0106.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0204.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0299.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0296.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0291.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0206.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0036.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0200.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0032.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0168.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0295.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0027.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0302.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0156.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0161.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0301.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0293.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0160.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0199.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0162.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0028.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0300.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_B05_R1_IMAG0583.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0171.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant",
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D03_R1_IMAG1756.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0033.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0170.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0297.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0167.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0163.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0155.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0294.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_C05_R1_IMAG1438.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D03_R1_IMAG1754.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0158.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0298.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_C05_R1_IMAG1437.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0038.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_C05_R2_IMAG0177.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "lion"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0029.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0037.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_B06_R2_IMAG0056.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0157.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0196.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0159.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0208.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0203.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0824.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0195.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_C05_R1_IMAG1439.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0826.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0825.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "empty",
+  "classification_pred": null
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0035.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0194.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0034.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0205.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0165.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0031.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D05_R1_IMAG0030.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0166.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0197.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0164.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "waterbuck",
+   "waterbuck"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0201.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D03_R1_IMAG1755.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0169.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant"
+  ]
+ },
+ "elephant/ENO_S1_D02_R1_IMAG0202.JPG": {
+  "ground_truth": "elephant",
+  "detection_pred": "animal",
+  "classification_pred": [
+   "elephant",
+   "elephant"
+  ]
+ }
+}
