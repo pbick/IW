@@ -1,0 +1,33 @@
+Processing detections...
+Output filename: /home/pbickenbach/IW/Testing/Results/test_skr/detection_results_clean.json
+Incorrects filename: /home/pbickenbach/IW/Testing/Results/test_skr/detection_incorrects.json
+
+Finished processing detections
+
+Threshold: 0.8
+
+Number of empty images: 795
+Number of animal images: 971
+
+Number of empty predictions: 847
+Number of animal predictions: 919
+
+Number of true empty predictions: 728
+Number of true animal predictions: 852
+
+Category: empty
+Precision: 0.859504132231405
+Recall: 0.9157232704402516
+F-score: 0.8867235079171741
+
+Category: animal
+Precision: 0.9270946681175191
+Recall: 0.8774459320288363
+F-score: 0.9015873015873014
+
+Number of incorrect empty predictions: 119
+Number of incorrect animal predictions: 67
+
+Number of images with animal predictions: 919
+
+Saving files now...

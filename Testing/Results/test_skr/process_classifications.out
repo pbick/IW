@@ -1,0 +1,61 @@
+Total images processed: 1307
+Species: empty
+Num Positives: 68.0
+Num Predictions: 9.0
+Num True Positives: 3.0
+Precision: 0.3333333333333333
+Recall: 0.04411764705882353
+F-score 0.07792207792207793
+
+Species: leopard
+Num Positives: 9.0
+Num Predictions: 17.0
+Num True Positives: 4.0
+Precision: 0.23529411764705882
+Recall: 0.4444444444444444
+F-score 0.3076923076923077
+
+Species: waterbuck
+Num Positives: 153.0
+Num Predictions: 305.0
+Num True Positives: 117.0
+Precision: 0.3836065573770492
+Recall: 0.7647058823529411
+F-score 0.5109170305676856
+
+Species: hyenaspotted
+Num Positives: 94.0
+Num Predictions: 123.0
+Num True Positives: 74.0
+Precision: 0.6016260162601627
+Recall: 0.7872340425531915
+F-score 0.6820276497695853
+
+Species: buffalo
+Num Positives: 476.0
+Num Predictions: 297.0
+Num True Positives: 255.0
+Precision: 0.8585858585858586
+Recall: 0.5357142857142857
+F-score 0.6597671410090556
+
+Species: lion
+Num Positives: 10.0
+Num Predictions: 55.0
+Num True Positives: 3.0
+Precision: 0.05454545454545454
+Recall: 0.3
+F-score 0.0923076923076923
+
+Species: elephant
+Num Positives: 497.0
+Num Predictions: 501.0
+Num True Positives: 407.0
+Precision: 0.812375249500998
+Recall: 0.8189134808853119
+F-score 0.8156312625250501
+
+Model Accuracy 0.6602907421576129
+
+Printing positives counts
+{'empty': 68.0, 'leopard': 9.0, 'waterbuck': 153.0, 'hyenaspotted': 94.0, 'buffalo': 476.0, 'lion': 10.0, 'elephant': 497.0}

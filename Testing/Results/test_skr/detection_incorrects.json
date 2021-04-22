@@ -1,0 +1,936 @@
+{
+ "empty": [
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0043.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0143.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0041.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0202.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_1_R1_IMAG0041.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_25_R1_IMAG0006.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0182.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0108.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_22_R1_IMAG0062.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0146.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0201.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0140.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0149.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0244.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0173.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_25_R1_IMAG0007.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_7_R1_IMAG0187.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_1_R1_IMAG0031.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0161.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0160.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "buffalo/KRU_S1_6_R1_IMAG0036.JPG",
+   "truth": "animal (buffalo)",
+   "pred": "empty"
+  },
+  {
+   "fn": "lion/KRU_S1_22_R1_IMAG0105.JPG",
+   "truth": "animal (lion)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_42_R1_IMAG0126.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_42_R1_IMAG0074.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_22_R1_IMAG0147.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_7_R1_IMAG0060.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_42_R1_IMAG0058.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_48_R1_IMAG0033.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_42_R1_IMAG0057.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_30_R1_IMAG0026.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_30_R1_IMAG0028.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_7_R1_IMAG0362.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_7_R1_IMAG0366.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "hyenaspotted/KRU_S1_48_R1_IMAG0032.JPG",
+   "truth": "animal (hyenaspotted)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0147.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0165.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0125.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_23_R1_IMAG0084.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0182.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0094.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_9_R1_IMAG0028.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_18_R1_IMAG0022.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_7_R1_IMAG0410.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_10_R1_IMAG0033.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_46_R1_IMAG0018.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0218.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0095.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_17_R1_IMAG0019.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0156.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_23_R1_IMAG0085.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_49_R1_IMAG0128.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_8_R1_IMAG0042.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_4_R1_IMAG0020.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0080.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0236.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_2_R1_IMAG0136.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0121.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_2_R1_IMAG0133.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0128.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_10_R1_IMAG0022.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_13_R1_IMAG0009.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0217.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0160.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_24_R1_IMAG0063.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_17_R1_IMAG0021.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0100.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_13_R1_IMAG0008.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_22_R1_IMAG0169.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_22_R1_IMAG0088.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0219.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0208.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0122.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_1_R1_IMAG0165.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0181.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_9_R1_IMAG0030.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_2_R1_IMAG0047.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_23_R1_IMAG0025.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_23_R1_IMAG0076.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_2_R1_IMAG0046.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_10_R1_IMAG0038.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_2_R1_IMAG0134.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_18_R1_IMAG0021.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0212.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0215.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0063.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0101.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_24_R1_IMAG0071.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0273.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0092.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0062.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0146.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_5_R1_IMAG0035.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_10_R1_IMAG0030.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_17_R1_IMAG0013.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_4_R1_IMAG0021.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_24_R1_IMAG0060.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0119.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_13_R1_IMAG0019.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_21_R1_IMAG0090.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_24_R1_IMAG0061.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0124.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_23_R1_IMAG0077.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_8_R1_IMAG1202.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_11_R1_IMAG0152.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_9_R1_IMAG0029.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_47_R1_IMAG0127.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_27_R1_IMAG0272.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "elephant/KRU_S1_7_R1_IMAG0277.JPG",
+   "truth": "animal (elephant)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_42_R1_IMAG0085.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_49_R1_IMAG0202.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_48_R1_IMAG0041.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_10_R1_IMAG0070.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_48_R1_IMAG0040.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_11_R1_IMAG0245.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_49_R1_IMAG0251.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "waterbuck/KRU_S1_42_R1_IMAG0082.JPG",
+   "truth": "animal (waterbuck)",
+   "pred": "empty"
+  },
+  {
+   "fn": "leopard/KRU_S1_19_R1_IMAG0119.JPG",
+   "truth": "animal (leopard)",
+   "pred": "empty"
+  },
+  {
+   "fn": "leopard/KRU_S1_7_R1_IMAG0150.JPG",
+   "truth": "animal (leopard)",
+   "pred": "empty"
+  },
+  {
+   "fn": "leopard/KRU_S1_7_R1_IMAG0151.JPG",
+   "truth": "animal (leopard)",
+   "pred": "empty"
+  }
+ ],
+ "animal": [
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0537.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0719.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0558.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1483.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0705.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0471.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0526.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0703.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0699.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0870.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0916.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0815.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1019.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1003.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0574.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG0958.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0725.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0834.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0744.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0869.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0553.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1690.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0778.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0513.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0704.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG0988.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0919.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0721.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0768.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0746.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0600.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0689.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0633.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0355.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG0688.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1043.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1096.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_8_R1_IMAG1380.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0533.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0631.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_5_R1_IMAG0248.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0877.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0802.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0659.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG1042.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0833.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0491.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0597.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0822.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0671.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0827.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0648.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_24_R1_IMAG0051.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0773.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0862.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0807.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0579.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0823.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0792.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG0923.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0606.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG0909.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0769.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_3_R1_IMAG0971.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0665.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0733.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  },
+  {
+   "fn": "empty/KRU_S1_14_R1_IMAG0761.JPG",
+   "truth": "empty",
+   "pred": "animal"
+  }
+ ]
+}
